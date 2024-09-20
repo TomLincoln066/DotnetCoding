@@ -1,0 +1,17 @@
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.deps.json
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.runtimeconfig.json
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.pdb
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Core.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Core.pdb
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.AssemblyInfo.cs
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCo.839A7467.Up2Date
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\refint\DotnetCoding.Infrastructure.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.pdb
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.genruntimeconfig.cache
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\ref\DotnetCoding.Infrastructure.dll

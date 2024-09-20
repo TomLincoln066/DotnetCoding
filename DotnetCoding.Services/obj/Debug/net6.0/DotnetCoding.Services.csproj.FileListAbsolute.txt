@@ -1,0 +1,15 @@
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.deps.json
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.pdb
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Core.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Core.pdb
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.AssemblyReference.cache
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.AssemblyInfoInputs.cache
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.AssemblyInfo.cs
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.CoreCompileInputs.cache
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCo.09E7C161.Up2Date
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\refint\DotnetCoding.Services.dll
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.pdb
+D:\projects\c_sharp\CDK_global_vendor_mthod_hub_0918\DotnetCoding\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\ref\DotnetCoding.Services.dll
